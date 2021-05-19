@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# To-Do-App-in-React-code
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple To Do Application in react.\
+In this application, I've used React components, React forms, event handlers etc.
+
+## The published To-do App:
+
+(https://ankitpatel-01.github.io/todo-app-react/)
 
 ## Available Scripts
 
