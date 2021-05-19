@@ -5,7 +5,7 @@ In this application, I've used React components, React forms, event handlers etc
 
 ## The published To-do App:
 
-(https://ankitpatel-01.github.io/todo-app-react/)
+(https://ankitpatel-01.github.io/todo-app/)
 
 ## Available Scripts
 
